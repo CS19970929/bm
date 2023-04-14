@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bsp.h": "c",
+        "stdlib.h": "c",
+        "bsp_timer.h": "c",
+        "sleepdeal.h": "c",
+        "main.h": "c",
+        "system.h": "c",
+        "bsp_key.h": "c"
+    }
+}
